@@ -1,0 +1,17 @@
+{{riqi.DATA}}
+
+厦门市湖里区
+天气：{{tianqi.DATA}}
+最低温度：{{low.DATA}} 度
+最高温度：{{high.DATA}} 度
+
+今天是我们恋爱的第 {{lianai.DATA}} 天！
+距离宝贝的生日还有 {{shengri.DATA}} 天！
+{{beizhu.DATA}}
+{{caihongpi.DATA}}
+{{jinju.DATA}}
+
+{{happy.DATA}}
+
+
+                    {{pig.DATA}}
